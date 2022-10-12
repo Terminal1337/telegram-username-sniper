@@ -10,9 +10,9 @@ Usage:-
 Support : Terminal#1465
 Telegram : @udpskid
 ```
-
+````
 Showcase:- 
-
+```
 
 https://user-images.githubusercontent.com/95563109/195401349-fe204603-86cf-4073-b3f3-eaa7acf4d7b8.mp4
 
