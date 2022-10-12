@@ -15,6 +15,8 @@ Upcoming Updates:-
 1) Telegram Snipe Logs
 2) Webhook Snipe Logs
 3) Multi-Threading
+4) Multi-Accounting
+5) Proxied
 ```
 
 ```
