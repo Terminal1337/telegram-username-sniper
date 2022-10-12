@@ -10,7 +10,7 @@ Usage:-
 Support : Terminal#1465
 Telegram : @udpskid
 ```
-````
+```
 Showcase:- 
 ```
 
