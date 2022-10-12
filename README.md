@@ -6,9 +6,10 @@ Usage:-
 3) Set The Config.json
 4) Run check.py
 ```
-
+```
 Support : Terminal#1465
 Telegram : @udpskid
+```
 
 Showcase:- 
 
