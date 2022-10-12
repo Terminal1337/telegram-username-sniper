@@ -9,6 +9,7 @@ Usage:-
 ```
 Support : Terminal#1465
 Telegram : @udpskid
+c.to : https://cracked.io/Terminal1337
 ```
 ```
 Upcoming Updates:-
